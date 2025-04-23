@@ -39,6 +39,7 @@ body {
   align-items: flex-end;
   justify-items: flex-end;
   flex-direction: column;
+  text-align: right;
   margin: 3vw;
 }
 
